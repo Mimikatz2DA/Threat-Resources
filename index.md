@@ -4,7 +4,7 @@
 > A curated list of great tools & resources I've come across
 
 ## Contents
-
+- [Detection Content](#detection content)
 - [Offensive Security](#offensive-security)
 
 ## Detection Content
