@@ -20,3 +20,4 @@
 
 ### OSCP Specific
 - [S1REN's Proving Ground Walkthroughs / YouTube](https://www.youtube.com/playlist?list=PLJrSyRNlZ2EeqkJa12Tu-Ezun9kXvHufN) - S1REN works for Offensive Security and has been instructing some of their classes. She is an amazing penetration tester and in this video playlist she walks through exploitation of Proving Ground machines. The methology here can be trasnfered over to PWK & OSCP.
+- [s1REN's OSCP Prep Advice / YouTube](https://www.youtube.com/watch?v=llD033skdIA) - OffSec's S1REN shares advice on how to prepare for the OSCP. 
